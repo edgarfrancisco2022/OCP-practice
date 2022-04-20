@@ -1,0 +1,4 @@
+//To initialize a set
+Set<String> set = Set.of("one", "two", "three");
+
+//Challenge #1 Learn all the ways you can initialize things and understand why.
